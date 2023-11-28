@@ -1,0 +1,3 @@
+[submodule "bifa_be_client"]
+	path = bifa_be_client
+	url = https://github.com/stefanjaw/bifa_be_client.git
